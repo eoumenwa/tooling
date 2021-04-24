@@ -74,3 +74,4 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 ## Changes made to readme file to test jenkins auto-build feature
+## Changes made to test transfer of build artifacts over SSH to NFS server
