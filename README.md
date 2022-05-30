@@ -73,8 +73,8 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-## Changes made to readme file to test jenkins auto-build feature
-## Changes made to test transfer of build artifacts over SSH to NFS server
+Changes made to readme file to test jenkins auto-build feature
+Changes made to test transfer of build artifacts over SSH to NFS server
 
 Got the error message below when I tried to test for SSH transfer of build artifacts
 ERROR: Exception when publishing, exception message [Permission denied]
