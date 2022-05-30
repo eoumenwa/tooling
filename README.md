@@ -88,15 +88,15 @@ total 0
 drwxr-xr-x. 4 root   root   33 Apr 12 18:26 apps
 drwx------. 2 root   root   68 Apr 19 18:47 logs
 drwxrwxrwx. 2 nobody nobody  6 Apr  2 11:18 opt
-[ec2-user@ip-172-31-23-215 ~]$ pwd
-/home/ec2-user
+
 [ec2-user@ip-172-31-23-215 ~]$ sudo chown -R ec2-user: /mnt/apps
 [ec2-user@ip-172-31-23-215 ~]$ ls -l /mnt
 total 0
+
 drwxr-xr-x. 4 ec2-user ec2-user 33 Apr 12 18:26 apps
 drwx------. 2 root     root     68 Apr 19 18:47 logs
 drwxrwxrwx. 2 nobody   nobody    6 Apr  2 11:18 opt
-[ec2-user@ip-172-31-23-215 ~]$
+
 
 
 Next is another attempt to auto-build by triggering another change using this commit
